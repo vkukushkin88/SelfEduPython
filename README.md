@@ -1,0 +1,2 @@
+# SelfEduPython
+Self education (Python)
